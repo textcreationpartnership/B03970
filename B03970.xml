@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties love to London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03970</idno>
+            <idno type="STC">Wing K600</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[60]</idno>
+            <idno type="EEBO-CITATION">99886882</idno>
+            <idno type="PROQUEST">ocm99886882</idno>
+            <idno type="VID">181390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03970)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181390)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties love to London.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Best, at the sign of the Three Crowns in Giltspur-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "My dearest city, and my native place,".</note>
+                  <note>In two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181390:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 37 -->
+            <head>THE Kings Majeſties Love TO LONDON.</head>
+            <lg>
+               <l>MY deareſt City, and my native place,</l>
+               <l>To ſee ſad tears run down thy beauteous face,</l>
+               <l>Makes Me and mine, to mourn, lament, and weep,</l>
+               <l>Doth cauſe me wake, when I ſhould fall aſleep;</l>
+               <l>As I am King, my Love to thee is more</l>
+               <l>Then Seas have Water, and the Earth hath Shore:</l>
+               <l>My love ſhall never fail to thee or thine,</l>
+               <l>But for thy ſake, as far as Sun doth ſhine</l>
+               <l>My Navy and my Forces ſhall ſeek out</l>
+               <l>Thy forreign Foes, and ſeek the World about;</l>
+               <l>I'le ſcowre the Main, I'le make the Ocean dry,</l>
+               <l>And thy proud foes ſhall at thy Foot-ſtool ly:</l>
+               <l>In this diſtreſs, O <hi>London!</hi> thou ſhalt ſee,</l>
+               <l>Great <hi>Britains</hi> King thy onely Friend to be;</l>
+               <l>Truſt to it <hi>London,</hi> for as I am King,</l>
+               <l>I will thy Foes unto ſubjection bring;</l>
+               <l>And cauſe them at thy Foot-ſtool for to ly,</l>
+               <l>Becauſe they wrong thee in thy miſery:</l>
+               <l>O <hi>London, London,</hi> if thou wilt obey</l>
+               <l>My juſt command, I never ſhall ſay nay</l>
+               <l>To any thing that's right, or thou'lt require,</l>
+               <l>Thou'ſt have thy will, thy grant, or thy deſire;</l>
+               <l>My Cordial love is more then thou doſt know,</l>
+               <l>If thou'lt obey, if thou'lt ſubjection owe</l>
+               <l>To me thy King, I'le make the World to ſee,</l>
+               <l>Thou ſhalt loſe nothing by obeying me;</l>
+               <l>Though on my Foes I uſually do frown,</l>
+               <l>And with my might I tumble them all down;</l>
+               <l>And will all thoſe who commonly ariſe</l>
+               <l>In open Armes; and thoſe who do deſpiſe</l>
+               <l>My Government: will not ſubjection yeild,</l>
+               <l>But ſeeks to fight me in the open Field;</l>
+               <l>Or by falſe treachery do me annoy,</l>
+               <l>If they ſeek my life, I ſhall thoſe deſtroy:</l>
+               <l>My chiefeſt City, I do much lament,</l>
+               <l>Thy grief, thy ſorrow, and thy diſcontent,</l>
+               <l>Thy tears, thy mournings, and thy ſad condition,</l>
+               <l>And for thy cauſe I daily do Petition</l>
+               <l>My Gracious God, to take his hand away,</l>
+               <l>And ſuffer not his Angel for to ſlay,</l>
+               <l>Or thee or thine, or ſuffer thee to ſtand,</l>
+               <l>Within the reach of his deſtroying hand;</l>
+               <l>But to remove his judgements, and to ſpare</l>
+               <l>My only City, for which I ſo care:</l>
+               <l>My Royal City, and my Native place,</l>
+               <l>My <hi>Metropolitan</hi> hath ſpoil'd her face;</l>
+               <l>Her eyes with weeping are ſunk in her head,</l>
+               <l>And ſhe lies now, much like to one that's dead:</l>
+               <l>What good thy King, O <hi>London!</hi> can thee do,</l>
+               <l>He will doo't for thee, yea, and that ſoon too;</l>
+               <l>The daily prayers of great <hi>Britains</hi> King,</l>
+               <l>Will cauſe a Heavenly Dove, to <hi>London</hi> bring</l>
+               <l>An Olive leaf; whereby to ſignifie,</l>
+               <l>That thou and thine ſhall live, ye ſhall not die.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>LONDONS MODEST ANSWER.</head>
+            <argument>
+               <l>Rejoyce O <hi>London!</hi> in thy King,</l>
+               <l>Who to thy City doth ſuch comfort bring:</l>
+               <l>His Purſe, his Prayers, and his Princely Deeds,</l>
+               <l>He doth the ſend, to ſtanch thy Wound that bleeds.</l>
+            </argument>
+            <lg>
+               <l>MOST Soveraign Lord, my good and gracious Kings,</l>
+               <l>What Joy, what Comfort, doth your ſweet words</l>
+               <l>bring?</l>
+               <l>How they revive my ſoul, and do me chear,</l>
+               <l>Expells my ſorrows and drive back my fear;</l>
+               <l>But what am I, poor <hi>London,</hi> what am I?</l>
+               <l>That <hi>Britains</hi> King, the flour of Majeſty,</l>
+               <l>Should look upon me with ſuch care and pity,</l>
+               <l>A poor diſtreſſed and unworthy City?</l>
+               <l>'Tis his free grace, and heavenly diſpoſition,</l>
+               <l>That at Gods Throne he daily doth Petition</l>
+               <l>For me and mine, that God would us reſtore,</l>
+               <l>To perfect health, and drive death from my door;</l>
+               <l>O gracious Prince, how am I bound to pray,</l>
+               <l>For your good Grace, and how bound to obey</l>
+               <l>Your ſacred Perſon, and your juſt command,</l>
+               <l>Your Acts, your Statutes, and not to withſtand</l>
+               <l>Your Will and Pleaſure; but whilſt I do live,</l>
+               <l>I will ſubjection to your Highneſs give?</l>
+               <l>If God be pleas'd to lengthen out my days,</l>
+               <l>I will not onely Speak, but Write your praiſe;</l>
+               <l>And all the Nations this day under Sun,</l>
+               <l>Shall fully know what <hi>Englands</hi> King hath done</l>
+               <l>To <hi>Londons</hi> City; when Gods hand did lye</l>
+               <l>Moſt heavy on her in her miſery:</l>
+               <l>How Wine and Oyl he poures in her wound,</l>
+               <l>How with his prayers he ſeeks to ſet her ſound,</l>
+               <l>How he doth comfort her amidſt her grief,</l>
+               <l>How to the poor he ſendeth great releif;</l>
+               <l>What comfortable words from him proceeds,</l>
+               <l>What Royal vertue, grace, and goodly deeds.</l>
+               <l>O happy <hi>London,</hi> in ſo good a King,</l>
+               <l>That in thy miſeries ſuch comfort bring,</l>
+               <l>In thy afflictions he ſhould look upon</l>
+               <l>Thy wants, and woes when all thy friends are gone:</l>
+               <l>Whilſt <hi>London</hi> ſtands, her King ſhe will obey,</l>
+               <l>And for his Majeſty will daily pray;</l>
+               <l>She never more will heave a ſingle hand,</l>
+               <l>His ſacred pleaſure ſhe will not withſtand;</l>
+               <l>But will obedience and ſubjection give,</l>
+               <l>Unto Authority while ſhe doth live;</l>
+               <l>Live, live, O <hi>London,</hi> live, and do not dye,</l>
+               <l>Thy King's thy friend now in thy miſery:</l>
+               <l>The King, the King, of Kings doth daily pray,</l>
+               <l>That God would turn his heavy hand away</l>
+               <l>From me and mine, and in my great diſtreſs</l>
+               <l>Would comfort ſend, and with his graces bleſs:</l>
+               <l>What City in the World hath ſuch a Prince?</l>
+               <l>Not one example can be ſhown e're ſince</l>
+               <l>The Worlds creation; who did ſo provide</l>
+               <l>For his poor Subjects, who muſt needs have di'd:</l>
+               <l>Yea, thouſands at this day had been in grave,</l>
+               <l>Who are alive in health whom he did ſave:</l>
+               <l>And under God by his rich means did cure,</l>
+               <l>In health amongſt us Lord let him endure.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Beſt,</hi> at the ſign of the Three Crowns in <hi>Giltſpur-ſtreet.</hi> 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
